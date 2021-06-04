@@ -4,6 +4,8 @@
 
 int main()
 {
+    
+    system("CLS");
 
     nodeQ_t* head = EMPTYNODE;
     nodeQ_t* tail = EMPTYNODE;
