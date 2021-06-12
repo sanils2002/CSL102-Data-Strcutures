@@ -25,4 +25,5 @@ int main()
     printf("%d\n", root->left->right->data);
 
     return 0;
+    
 }
